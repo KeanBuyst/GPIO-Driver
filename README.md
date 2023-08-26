@@ -2,7 +2,7 @@
 
 Simple linux gpio driver for the raspberrypi.
 
-Interact with the driver with `/proc/gpio` once installed.
+Interact with the driver using `/proc/gpio` once installed.
 
 ## For writing (input)
 
